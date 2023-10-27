@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bg-vert{
+    color: rgb(122, 81, 81);
+    background-color: rgb(176, 240, 176);
+    position: relative;
+    height: 1000px;
+}
+.bg-position{
+    position: absolute;
+    left: 20px ;
+    background-color: rgb(147, 147, 243);
+    height: 50px;
+    width: 920px;
+}
+.text-noir{
+    color: black;
+}
+.comeback{
+    border-radius: 10% ;
+    background-color: rgb(223, 11, 82);
+    width: 60px;
+    height: 30px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: flex;
+}
+.button{
+    border-radius: 10% ;
+    background-color: rgb(38, 143, 12);
+    width: 200px;
+    height: 50px;
+    margin-left: 40%;
+    
+}
+.p_sticki{
+    position: sticky ;
+    left: 0%;
+    top: 0%;
+    background-color: rgb(227, 238, 238);
+    height: 50px;
+    width: 120px;
+}
